@@ -1,3 +1,5 @@
 <h2>L4 - Coverage - assignment</h2>
-Andres Michel
-José Juan Suárez
+<ul>
+  <li>Andres Michel</li>
+  <li>José Juan Suárez</li>
+</ul>
